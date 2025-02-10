@@ -3,7 +3,7 @@
 Agrega una lista de amigos, y  una vez teniendola, puedes sortear  un nombre de la misma.
 Actividad final del primero curso de Alura
 
-#Como jugarlo
+# Como jugarlo
 * En el campo "Escribe un nombre" escribe el nombre del amigo
 * En el botón "Añadir", da clic para agregar el amigo escrito
 * Se puede agregar varios amigos sin problema
